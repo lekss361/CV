@@ -181,4 +181,7 @@ hr {
     display: grid;
     gap: 40px;
   }
+  .tems-name i{
+    color: gray;
+  }
   
